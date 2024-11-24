@@ -21,6 +21,7 @@ This  repository containing Group 1 Hackathon links :tada:
   3. [John Bradill Mukhwana  🕵️‍♂️](#john-bradill-mukhwana--️️)  
   4. [Granton Waribe 🕵️‍♂️](#granton-waribe-️️)    
   5. [Edger Omweri Kegoro 🕵️‍♂️](#edger-omweri-kegoro--)
+  6. [Ruth Wanjru Mwaniki🕵️‍♂️](#ruth-wanjiru-meaniki--)
   
 ----
 
@@ -66,5 +67,13 @@ Github Link: https://github.com/moyijulius/myprofile.git
 Name: Edger kegoro<br>
 Portfolio Link: https://github.com/Edgermartial/plp-hackaton.git<br>
 Github Link: https://github.com/Edgermartial<br>
+
+---
+
+## Ruth Wanjiru Mwaniki 🕵️‍♂️    
+
+Name: Ruth Wanjiru Mwaniki<br>
+Portfolio Link: https://github.com/Ruth960/Personal-Profolio.git<br>
+Github Link: https://github.com/Ruth960<br>
 
 ---
